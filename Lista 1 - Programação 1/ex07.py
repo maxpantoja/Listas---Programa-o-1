@@ -1,2 +1,5 @@
-aresta = float(input("Informa a aresta do aquadrado: "))
+print("=-="*20)
+print("Este programa calcula a área de um quadrado e informa do dobro dessa área.")
+print("=-="*20)
+aresta = float(input("Informe a aresta do quadrado: "))
 print(f"A área do quadrado é: {aresta**2}. O dobro dessa área é: {(aresta**2)*2}")

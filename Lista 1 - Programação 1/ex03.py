@@ -1,3 +1,6 @@
+print("=-="*20)
+print("Este programa imprimi a soma dos números informados.")
+print("=-="*20)
 n1 = float(input("Digite o primeiro número: "))
 n2 = float(input("Digite o segundo número: "))
 print(f"A soma dos números é: {n1+n2}")

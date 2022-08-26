@@ -1,2 +1,5 @@
+print("=-="*20)
+print("Este programa calcula a área de um cículo através do raio informado.\nOBS: PI = 3,14")
+print("=-="*20)
 raio = float(input("Digite o raio do círculo: "))
 print(f"A área do círculo é igual a: {(raio**2)*3.14}")

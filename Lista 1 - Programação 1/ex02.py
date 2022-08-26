@@ -1,2 +1,5 @@
+print("=-="*15)
+print("Este programa imprimi o número informado.")
+print("=-="*15)
 n = input("Digite um número: ")
 print(f"O número informado foi o {n}.")

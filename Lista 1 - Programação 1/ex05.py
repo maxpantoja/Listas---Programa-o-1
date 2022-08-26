@@ -1,2 +1,5 @@
-n = float(input("Digite o comprimendo em metros: "))
+print("=-="*20)
+print("Este programa converte metros para centímetros.")
+print("=-="*20)
+n = float(input("Digite o tamanho em metros: "))
 print(f"{n} m é igual a {n*100} cm")
