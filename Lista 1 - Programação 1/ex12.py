@@ -1,0 +1,5 @@
+print("=-="*23)
+print("Este programa calcula o peso ideal de uma pessoa a partir se sua altura.")
+print("=-="*23)
+altura = float(input("Digite sua altura (em metros): "))
+print(f"O peso ideal para a altura de {altura} m é de {72.7*altura-58:.2f} Kg")

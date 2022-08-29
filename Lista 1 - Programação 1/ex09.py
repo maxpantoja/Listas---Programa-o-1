@@ -1,0 +1,5 @@
+print("=-="*20)
+print("Este programa converte temperatura em Fahrenheit para Celsius.")
+print("=-="*20)
+x = float(input("Digite a temperatura em Fahrenheit: "))
+print(f"{x} graus Fahrenheit equivalem a {5 * ((x-32)/9):.2f} graus Celsius")
