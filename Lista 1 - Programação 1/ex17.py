@@ -2,7 +2,7 @@ print("=-="*24)
 print("Este programa verifica a melhor opção de compras para pintar uma parede.")
 print("=-="*24)
 modelo1 = 18
-modelo2 = 3.8
+modelo2 = 3.6
 area = float(input("Informe a área a ser pintada(m²): "))
 latas1 = (area/6)/modelo1
 if latas1 - int(latas1) != 0:
