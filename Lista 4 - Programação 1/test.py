@@ -1,3 +1,7 @@
-lista = [4, 5, 6]
-if lista > 5:
-    print('ok')
+lista = []
+for i in range(31):
+    lista.append("'c ("+str(i)+")'!F52+")
+formula = ''
+for i in lista:
+    formula += i
+print(formula)
